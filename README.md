@@ -6,7 +6,7 @@
 
 **Back-End**   Node.js, Express, MySQL, Sequeilize
 
-**Others**   AWS(EC2, S3, RDS), Git, Postman
+**Others**   Git, Postman
 
 ### GitHub Stats
 
