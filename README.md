@@ -1,6 +1,6 @@
 ### Tech Stack
 
-**Languages**   TypeScript, JavaScript, C#, TailwindCss
+**Languages**   TypeScript, JavaScript, C#, TailwindCSS
 
 **Front-End**   Vue3, React(hooks), Redux
 
