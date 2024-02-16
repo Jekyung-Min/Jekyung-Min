@@ -1,12 +1,12 @@
 ### Tech Stack
 
-**Languages**   Javascript(ES6+), HTML, CSS
+**Languages**   TypeScript, JavaScript, C#, TailwindCss
 
-**Front-End**   React(hooks), Redux
+**Front-End**   Vue3, React(hooks), Redux
 
-**Back-End**   Node.js, Express, MySQL, Sequeilize
+**Back-End**   .NET, Node.js, MySQL, PostgreSQL, Oracle
 
-**Others**   Git, Postman
+**Others**   Git, Swagger
 
 ### GitHub Stats
 
