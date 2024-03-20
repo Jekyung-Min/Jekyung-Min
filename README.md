@@ -2,7 +2,7 @@
 
 **Languages**   TypeScript, JavaScript, C#, TailwindCSS
 
-**Front-End**   Vue3, React(hooks), Redux
+**Front-End**   Vue3, Pinia, TanStack Query, React, Redux
 
 **Back-End**   .NET, Node.js, MySQL, PostgreSQL, Oracle
 
