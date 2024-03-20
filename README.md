@@ -6,7 +6,7 @@
 
 **Back-End**   .NET, Node.js, MySQL, PostgreSQL, Oracle
 
-**Others**   Git, Swagger
+**Others**   AWS, Swagger, Git
 
 ### GitHub Stats
 
